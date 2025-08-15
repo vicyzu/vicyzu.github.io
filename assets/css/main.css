@@ -2770,3 +2770,41 @@ input, select, textarea {
     font-size: 1em;
     line-height: 1.5;
 }
+
+/* News cards */
+.news-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 22px;
+}
+
+.news-card {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgba(0,0,0,0.08);
+  border-radius: 10px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.news-card .image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.news-body {
+  padding: 0.9rem 1rem 1.1rem;
+}
+
+.news-body h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.1rem;
+}
+
+.news-date {
+  display: block;
+  font-size: 0.9rem;
+  opacity: 0.75;
+  margin-bottom: 0.45rem;
+}
