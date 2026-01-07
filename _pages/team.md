@@ -97,19 +97,19 @@ nav_order: 7
     </div>
 
     <div class="team-card">
-      <img src="{{ '/assets/img/team/pitt.jpeg' | relative_url }}" alt="Undergraduate student">
+      <img src="{{ '/assets/img/team/actor6.png' | relative_url }}" alt="Undergraduate student">
       <div class="team-name">Student Name</div>
       <div class="team-role">Undergraduate Researcher</div>
     </div>
 
     <div class="team-card">
-      <img src="{{ '/assets/img/team/pitt.jpeg' | relative_url }}" alt="Undergraduate student">
+      <img src="{{ '/assets/img/team/actor6.png' | relative_url }}" alt="Undergraduate student">
       <div class="team-name">Student Name</div>
       <div class="team-role">Undergraduate Researcher</div>
     </div>
 
     <div class="team-card">
-      <img src="{{ '/assets/img/team/pitt.jpeg' | relative_url }}" alt="Undergraduate student">
+      <img src="{{ '/assets/img/team/actor6.png' | relative_url }}" alt="Undergraduate student">
       <div class="team-name">Student Name</div>
       <div class="team-role">Undergraduate Researcher</div>
     </div>

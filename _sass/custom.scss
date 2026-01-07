@@ -1,49 +1,83 @@
+/* =========================
+   Gallery (post page grid)
+   ========================= */
+
 .gallery-grid {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(160px, 1fr));
   gap: 14px;
-  margin-top: 1rem;
+  margin: 1rem 0 1.25rem 0;
+}
+
+.gallery-grid a {
+  display: block;
 }
 
 .gallery-grid img {
   width: 100%;
-  height: auto;
-  border-radius: 10px;
+  height: 180px;      /* thumbnail size */
+  object-fit: cover;  /* keeps clean crop */
+  border-radius: 12px;
+  display: block;
 }
+
+/* Responsive gallery grid */
+@media (max-width: 900px) {
+  .gallery-grid { grid-template-columns: repeat(2, minmax(140px, 1fr)); }
+}
+@media (max-width: 520px) {
+  .gallery-grid { grid-template-columns: 1fr; }
+  .gallery-grid img { height: 220px; }
+}
+
+/* =========================
+   Gallery (list page thumbnail)
+   ========================= */
 
 .gallery-thumb {
-  width: 260px;        // adjust: 220–320 is typical
+  width: 260px; // recommended range: 220–320px
   max-width: 100%;
-  height: auto;        // keeps proportions
+  height: auto; // keep proportions
   display: block;
   margin-top: 0.75rem;
-  border-radius: 10px;
+  border-radius: 12px;
 }
 
-/* ===== Team page ===== */
+/* =========================
+   Team page
+   ========================= */
 
+/* Lab Director layout */
 .team-lead {
-  display: grid;
-  grid-template-columns: 1.4fr 1fr;
-  gap: 24px;
-  align-items: start;
-  margin-top: 1rem;
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+  margin: 1rem 0 3rem 0;
 }
 
-.team-lead-photo img {
+.team-lead-text {
+  flex: 1;
+}
+
+.team-lead-photo {
+  flex-shrink: 0;
+}
+
+.team-lead-photo img,
+.director-photo {
   width: 100%;
-  max-width: 360px;
+  max-width: 420px;
   height: auto;
-  border-radius: 14px;
-  object-fit: cover;
+  object-fit: contain;
+  border-radius: 18px;
 }
 
+/* Students grid */
 .team-grid {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 18px;
-  margin-top: 1rem;
-  margin-bottom: 1.25rem;
+  margin: 1rem 0 1.25rem 0;
 }
 
 .team-card img {
@@ -63,54 +97,25 @@
   opacity: 0.8;
 }
 
-/* Responsive */
+/* Responsive team layout */
 @media (max-width: 980px) {
-  .team-lead { grid-template-columns: 1fr; }
-  .team-grid { grid-template-columns: repeat(2, 1fr); }
-}
-
-@media (max-width: 560px) {
-  .team-grid { grid-template-columns: 1fr; }
-}
-
-/* =========================
-   Lab Director Layout
-   ========================= */
-
-.team-lead {
-  display: flex;
-  gap: 3rem;
-  align-items: center;
-  margin-bottom: 3rem;
-}
-
-/* Text block */
-.team-lead-text {
-  flex: 1;
-}
-
-/* Photo container */
-.team-lead-photo {
-  flex-shrink: 0;
-}
-
-/* Director image – proportional & responsive */
-.team-lead-photo img,
-.director-photo {
-  width: 100%;
-  max-width: 420px;   /* adjust size here */
-  height: auto;       /* keeps aspect ratio */
-  object-fit: contain;
-  border-radius: 18px;
-}
-
-@media (max-width: 768px) {
   .team-lead {
     flex-direction: column-reverse;
     text-align: center;
+    gap: 1.5rem;
   }
 
   .team-lead-photo img {
     max-width: 280px;
+  }
+
+  .team-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 560px) {
+  .team-grid {
+    grid-template-columns: 1fr;
   }
 }

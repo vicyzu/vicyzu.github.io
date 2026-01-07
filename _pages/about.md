@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href="https://eeb.ee.yzu.edu.tw/?lang=zh-tw">Affiliations</a>. Department of Electrical Engineering, R70935, Yuan Ze University, Taiwan
+subtitle: '<a href="https://eeb.ee.yzu.edu.tw/?lang=zh-tw">Affiliations</a>. Department of Electrical Engineering, R70935, Yuan Ze University, Taiwan'
 
 profile:
   align: right
@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 10 # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 # latest_posts:
 #   enabled: true
