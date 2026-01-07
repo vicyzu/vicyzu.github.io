@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-gallery",
           title: "Gallery",
-          description: "Lab activities and photo highlights",
+          description: "Lab activities and photo highlights (click a title to view more images)",
           section: "Navigation",
           handler: () => {
             window.location.href = "/gallery/";
@@ -30,11 +30,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/team/";
           },
-        },{id: "post-icce-tw-2025-amp-ivcs-workshop-at-avss-2025",
+        },{id: "post-iipp-internship-program-at-vic-lab",
         
-          title: "ICCE-TW 2025 &amp; IVCS Workshop at AVSS 2025",
+          title: "IIPP Internship Program at VIC Lab",
         
-        description: "VIC Lab hosted ICCE-TW 2025 and the IVCS Workshop at AVSS 2025.",
+        description: "VIC Lab hosted two international interns through the IIPP Program.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/iipp-intern/";
+          
+        },
+      },{id: "post-ivcs-workshop-at-avss-2025",
+        
+          title: "IVCS Workshop at AVSS 2025",
+        
+        description: "VIC Lab hosted the IVCS Workshop at AVSS 2025. Workshop website: https://sites.google.com/view/ivcs2025",
         section: "Posts",
         handler: () => {
           
@@ -426,6 +437,15 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-vic-lab-successfully-hosted-icce-tw-2025-and-the-ivcs-workshop-at-avss-2025-we-sincerely-thank-all-authors-speakers-and-organizers-for-their-contributions",
           title: '🎉 VIC Lab successfully hosted ICCE-TW 2025 and the IVCS Workshop at AVSS...',
+          description: "",
+          section: "News",},{id: "news-vic-lab-received-the-excellent-best-paper-award-at-the-iihsmp-conference-2025-for-the-paper-titled-reconstruction-based-segmenting-region-technique-for-adversarial-patch-defense",
+          title: '🎉 VIC Lab received the Excellent Best Paper Award at the IIHSMP Conference...',
+          description: "",
+          section: "News",},{id: "news-vic-lab-members-published-two-papers-at-the-17th-international-conference-on-humanoid-nanotechnology-information-technology-communication-and-control-environment-and-management-hnicem-focusing-on-sustainable-and-smart-agriculture",
+          title: '📰 VIC Lab members published two papers at the 17th International Conference on...',
+          description: "",
+          section: "News",},{id: "news-chun-yi-lin-received-the-best-paper-award-at-the-cosite-conference-2025-for-the-paper-titled-zero-shot-representation-learning-for-alzheimer-s-disease-mri-via-frozen-clip-congratulations-to-chun-yi",
+          title: '🏆 Chun-Yi Lin received the Best Paper Award at the COSITE Conference 2025...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
