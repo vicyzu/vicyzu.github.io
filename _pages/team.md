@@ -22,7 +22,7 @@ nav_order: 7
     </p>
     <p>
       Office: Room 70820<br>
-      Email: <a href="mailto:isackf@saturn.yzu.edu.tw">isackf[at]saturn.yzu.edu.tw</a>
+      Email: isackf[at]saturn.yzu.edu.tw
     </p>
   </div>
 
@@ -97,22 +97,28 @@ nav_order: 7
     </div>
 
     <div class="team-card">
+      <img src="{{ '/assets/img/team/Pei-Hsuan Lin.jpg' | relative_url }}" alt="Undergraduate student">
+      <div class="team-name">Pei-Hsuan Lin</div>
+      <div class="team-role">Undergraduate Researcher</div>
+    </div>
+
+    <div class="team-card">
+      <img src="{{ '/assets/img/team/Ssu-Chien Li.jpg' | relative_url }}" alt="Undergraduate student">
+      <div class="team-name">Ssu-chien Li</div>
+      <div class="team-role">Undergraduate Researcher</div>
+    </div>
+<!-- 
+    <!-- <div class="team-card">
       <img src="{{ '/assets/img/team/actor6.png' | relative_url }}" alt="Undergraduate student">
-      <div class="team-name">Student Name</div>
+      <div class="team-name">Raihan M.</div>
       <div class="team-role">Undergraduate Researcher</div>
     </div>
 
     <div class="team-card">
       <img src="{{ '/assets/img/team/actor6.png' | relative_url }}" alt="Undergraduate student">
-      <div class="team-name">Student Name</div>
+      <div class="team-name">Dafiq M.</div>
       <div class="team-role">Undergraduate Researcher</div>
-    </div>
-
-    <div class="team-card">
-      <img src="{{ '/assets/img/team/actor6.png' | relative_url }}" alt="Undergraduate student">
-      <div class="team-name">Student Name</div>
-      <div class="team-role">Undergraduate Researcher</div>
-    </div>
+    </div> --> 
 
   </div>
 </section>

@@ -28,12 +28,13 @@ announcements:
 #   limit: 5 # leave blank to include all the blog posts
 ---
 
+The **Vision and Intelligent Computing (VIC)** Lab is a research laboratory within the Department of Electrical Engineering, dedicated to advancing both fundamental and applied research in computer vision, multimedia processing, artificial intelligence (AI), and intelligent computing. Our research emphasizes the principled integration of image, video, and audio understanding with modern deep learning architectures, representation learning techniques, and intelligent system design.
 
-The **Vision and Intelligent Computing (VIC)** Lab is a research laboratory within the Department of Electrical Engineering, dedicated to advancing fundamental and applied research in computer vision, multimedia processing, artificial intelligence (AI), and intelligent computing. Our research emphasizes the principled integration of image, video, and audio understanding with modern deep learning architectures, representation learning, and intelligent systems design.
+The mission of our Lab is to develop intelligent, efficient, and scalable AI-driven solutions that address critical challenges across a broad range of application domains. The laboratory consists of undergraduate and graduate students who actively conduct research in computer vision and related AI fields, with applications including healthcare analytics, geoscience and environmental monitoring, human–computer interaction, and autonomous intelligent systems.
 
-**Our mission** is to design intelligent, efficient, and scalable AI-driven solutions that address critical challenges across a wide range of application domains, including healthcare analytics, geoscience and environmental monitoring, human–computer interaction, and autonomous and intelligent systems. We place strong emphasis on real-world deployability, generalization across domains, and interpretability of AI models.
+The VIC Lab welcomes motivated graduate students, research interns, and collaborators who are interested in joining our research activities. Prospective members are encouraged to contact us via email to discuss research opportunities, including graduate study, internships, and formal research collaborations.
 
-The VIC Lab actively collaborates with international academic institutions, industrial partners, and interdisciplinary research communities. Through these collaborations, we aim to bridge the gap between fundamental research and real-world impact, fostering innovation that contributes to both scientific advancement and societal needs.
+The VIC Lab actively collaborates with international academic institutions, industrial partners, and interdisciplinary research communities. Through these collaborations, we aim to bridge the gap between fundamental research and real-world applications, fostering innovation that contributes to both scientific advancement and broader societal impact.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
