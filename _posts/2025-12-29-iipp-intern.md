@@ -5,6 +5,7 @@ date: 2025-12-30
 categories: [gallery]
 thumbnail: /assets/img/gallery/iipp-ahmed.jpeg
 description: VIC Lab hosted two international interns through the IIPP Program.
+related_posts: false 
 ---
 
 <div class="gallery-grid">

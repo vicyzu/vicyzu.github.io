@@ -6,6 +6,7 @@ categories: [gallery]
 published: true
 thumbnail: /assets/img/gallery/ivcs4.jpg
 description: "VIC Lab hosted the IVCS Workshop at AVSS 2025. Workshop website: https://sites.google.com/view/ivcs2025"
+related_posts: false
 ---
 
 <div class="gallery-grid">
@@ -25,7 +26,7 @@ description: "VIC Lab hosted the IVCS Workshop at AVSS 2025. Workshop website: h
 
 VIC Lab presented **two research papers** at **IEEE AVSS 2025** and successfully organized the **Intelligent Visual Computing Systems (IVCS) Workshop**.
 
-More details about the workshop, including the program and invited speakers, are available at the official website:  
-🔗 **https://sites.google.com/view/ivcs2025**
+More details about the workshop, including the program and invited speakers, are available on the official website:  
+🔗 **[https://sites.google.com/view/ivcs2025](https://sites.google.com/view/ivcs2025)**
 
 The workshop featured **Prof. Jong-Taek Lee** from **Kyungpook National University, South Korea**, as the keynote speaker. The event fostered active discussions on intelligent vision systems, multimedia analysis, and emerging challenges in visual computing.
