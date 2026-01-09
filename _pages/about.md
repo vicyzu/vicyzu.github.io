@@ -30,7 +30,7 @@ announcements:
 
 The **Vision and Intelligent Computing (VIC)** Lab is a research laboratory within the Department of Electrical Engineering, dedicated to advancing both fundamental and applied research in computer vision, multimedia processing, artificial intelligence (AI), and intelligent computing. Our research emphasizes the principled integration of image, video, and audio understanding with modern deep learning architectures, representation learning techniques, and intelligent system design.
 
-The mission of our Lab is to develop intelligent, efficient, and scalable AI-driven solutions that address critical challenges across a broad range of application domains. The laboratory consists of undergraduate and graduate students who actively conduct research in computer vision and related AI fields, with applications including healthcare analytics, geoscience and environmental monitoring, human–computer interaction, and autonomous intelligent systems.
+**The mission of our Lab** is to develop intelligent, efficient, and scalable AI-driven solutions that address critical challenges across a broad range of application domains. The laboratory consists of undergraduate and graduate students who actively conduct research in computer vision and related AI fields, with applications including healthcare analytics, geoscience and environmental monitoring, human–computer interaction, and autonomous intelligent systems.
 
 The VIC Lab welcomes motivated graduate students, research interns, and collaborators who are interested in joining our research activities. Prospective members are encouraged to contact us via email to discuss research opportunities, including graduate study, internships, and formal research collaborations.
 
