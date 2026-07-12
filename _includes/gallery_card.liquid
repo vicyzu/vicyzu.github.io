@@ -1,5 +1,4 @@
 <article class="gallery-card">
-
   {% if include.post.thumbnail %}
     <a
       class="gallery-card-image"
@@ -15,12 +14,11 @@
   {% endif %}
 
   <div class="gallery-card-content">
-
     <time
       class="gallery-card-date"
       datetime="{{ include.post.date | date_to_xmlschema }}"
     >
-      {{ include.post.date | date: "%B %Y" }}
+      {{ include.post.date | date: '%B %Y' }}
     </time>
 
     <h3 class="gallery-card-title">
@@ -41,7 +39,5 @@
     >
       View gallery →
     </a>
-
   </div>
-
 </article>

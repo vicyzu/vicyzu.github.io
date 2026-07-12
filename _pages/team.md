@@ -26,6 +26,7 @@ nav_order: 7
       Office: Room 70820<br>
       Email: isackf[at]saturn.yzu.edu.tw
     </p>
+
   </div>
 
   <div class="team-lead-photo">
@@ -71,6 +72,7 @@ nav_order: 7
     </div>
 
     <!-- Add more .team-card blocks here -->
+
   </div>
 </section>
 
@@ -127,7 +129,6 @@ nav_order: 7
   </div>
 </section>
 
-
 <!-- ===================== -->
 <!-- Interns (Optional)    -->
 <!-- ===================== -->
@@ -162,5 +163,6 @@ nav_order: 7
       <div class="team-name">Lin Chun-Yi</div>
       <div class="team-role">B.S. Graduate (2025)</div>
     </div>
+
   </div>
 </section>

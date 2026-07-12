@@ -1,9 +1,7 @@
 ---
 layout: post
 ---
-
 <div class="gallery-event">
-
   {% if page.description %}
     <p class="gallery-event-lead">
       {{ page.description }}
@@ -17,15 +15,11 @@ layout: post
   {% endif %}
 
   {% if page.gallery_images and page.gallery_images.size > 0 %}
-
     <div class="gallery-photo-grid">
-
       {% for image in page.gallery_images %}
-
         {% assign image_path = page.gallery_folder | append: image.file %}
 
         <figure class="gallery-photo-item">
-
           <a
             href="{{ image_path | relative_url }}"
             target="_blank"
@@ -43,17 +37,11 @@ layout: post
               {{ image.caption }}
             </figcaption>
           {% endif %}
-
         </figure>
-
       {% endfor %}
-
     </div>
 
   {% else %}
-
     <p>No photographs are available for this gallery.</p>
-
   {% endif %}
-
 </div>

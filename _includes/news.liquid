@@ -16,9 +16,7 @@
       {% endif %}
     >
       {% for item in news limit: news_limit %}
-
         {% if item.inline %}
-
           <div class="news-inline-item">
             <div class="news-date">
               {{ item.date | date: '%b %d, %Y' }}
@@ -30,9 +28,7 @@
           </div>
 
         {% else %}
-
           <article class="news-card">
-
             {% if item.thumbnail %}
               <div class="news-card-image">
                 <a href="{{ item.url | relative_url }}">
@@ -62,15 +58,10 @@
                 </p>
               {% endif %}
 
-              <a class="news-read-more" href="{{ item.url | relative_url }}">
-                Read more →
-              </a>
+              <a class="news-read-more" href="{{ item.url | relative_url }}"> Read more → </a>
             </div>
-
           </article>
-
         {% endif %}
-
       {% endfor %}
     </div>
 

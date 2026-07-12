@@ -33,6 +33,7 @@ nav_order: 2
         <p class="gallery-empty">No gallery items are available in this category yet.</p>
       {% endfor %}
     </div>
+
   </section>
 
   <section class="gallery-category">
@@ -53,6 +54,7 @@ nav_order: 2
         <p class="gallery-empty">No gallery items are available in this category yet.</p>
       {% endfor %}
     </div>
+
   </section>
 
   <section class="gallery-category">
@@ -73,6 +75,7 @@ nav_order: 2
         <p class="gallery-empty">No gallery items are available in this category yet.</p>
       {% endfor %}
     </div>
+
   </section>
 
 </div>

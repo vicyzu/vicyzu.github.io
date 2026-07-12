@@ -6,7 +6,6 @@ Department of Electrical Engineering, Yuan Ze University, Taiwan.
 
 Live website: https://vicyzu.github.io
 
-
 About VIC Lab
 
 The Vision and Intelligent Computing (VIC) Lab conducts research in:
@@ -23,7 +22,6 @@ monitoring, biosignal analysis, smart sensing, and autonomous systems.
 The lab actively collaborates with international academic institutions and
 industry partners, aiming to bridge fundamental research and real-world impact.
 
-
 Website Contents
 
 The website includes the following sections:
@@ -33,7 +31,6 @@ The website includes the following sections:
 - Projects: Ongoing and completed research projects
 - Gallery: Lab activities, workshops, and academic events
 - Team: Lab director, graduate students, undergraduate students, alumni, and interns
-
 
 Technical Overview
 
@@ -57,13 +54,11 @@ extensible, and well-maintained academic website framework.
 The template has been customized and extended to meet the specific needs of
 the VIC Lab.
 
-
 License
 
 This repository follows the MIT License, consistent with the original
 al-folio template.
 See the LICENSE file for details.
-
 
 Contact
 
