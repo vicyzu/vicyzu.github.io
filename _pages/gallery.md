@@ -2,48 +2,77 @@
 layout: page
 title: Gallery
 permalink: /gallery/
-description: Lab activities and photo highlights (click a title to view more images)
+description: A visual archive of VIC Lab activities, collaborations, visits, and academic events.
 nav: true
 nav_order: 2
 ---
 
-<div class="gallery-list">
+{% assign gallery_posts = site.posts
+  | where_exp: "post", "post.categories contains 'gallery'"
+  | sort: "date"
+  | reverse
+%}
 
-  {% assign gallery_posts = site.posts | where_exp: "p", "p.categories contains 'gallery'" | sort: "date" | reverse %}
+<div class="gallery-archive">
 
-  {% if gallery_posts.size == 0 %}
-    <p>
-      No gallery items yet. Add posts in <code>_posts/</code> with <code>categories: [gallery]</code>.
-    </p>
-  {% else %}
+  <section class="gallery-category">
+    <div class="gallery-category-heading">
+      <span class="gallery-category-icon">🔬</span>
+      <div>
+        <h2>Lab Life</h2>
+        <p>Student activities, defenses, internships, meetings, celebrations, and everyday life at VIC Lab.</p>
+      </div>
+    </div>
 
-    <ul class="post-list">
-      {% for post in gallery_posts %}
-        <li>
-          <h3>
-            <a class="post-title" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </h3>
+    <div class="gallery-card-grid">
+      {% assign category_posts = gallery_posts | where: "gallery_type", "lab" %}
 
-          {% if post.description %}
-            <p>{{ post.description }}</p>
-          {% endif %}
-
-          <p class="post-meta">
-            {{ post.date | date: '%B %d, %Y' }}
-          </p>
-
-          {% if post.thumbnail %}
-            <a href="{{ post.url | relative_url }}">
-              <img
-                class="gallery-thumb"
-                src="{{ post.thumbnail | relative_url }}"
-                alt="{{ post.title }} thumbnail">
-            </a>
-          {% endif %}
-        </li>
+      {% for post in category_posts %}
+        {% include gallery_card.liquid post=post %}
+      {% else %}
+        <p class="gallery-empty">No gallery items are available in this category yet.</p>
       {% endfor %}
-    </ul>
+    </div>
+  </section>
 
-  {% endif %}
+  <section class="gallery-category">
+    <div class="gallery-category-heading">
+      <span class="gallery-category-icon">🤝</span>
+      <div>
+        <h2>Collaborations & Visitors</h2>
+        <p>International collaborators, visiting researchers, university visits, and partner activities.</p>
+      </div>
+    </div>
+
+    <div class="gallery-card-grid">
+      {% assign category_posts = gallery_posts | where: "gallery_type", "collaboration" %}
+
+      {% for post in category_posts %}
+        {% include gallery_card.liquid post=post %}
+      {% else %}
+        <p class="gallery-empty">No gallery items are available in this category yet.</p>
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="gallery-category">
+    <div class="gallery-category-heading">
+      <span class="gallery-category-icon">🌏</span>
+      <div>
+        <h2>Conferences & Academic Events</h2>
+        <p>Conference participation, workshops, presentations, invited talks, and academic events.</p>
+      </div>
+    </div>
+
+    <div class="gallery-card-grid">
+      {% assign category_posts = gallery_posts | where: "gallery_type", "conference" %}
+
+      {% for post in category_posts %}
+        {% include gallery_card.liquid post=post %}
+      {% else %}
+        <p class="gallery-empty">No gallery items are available in this category yet.</p>
+      {% endfor %}
+    </div>
+  </section>
 
 </div>

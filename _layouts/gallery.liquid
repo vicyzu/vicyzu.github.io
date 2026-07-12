@@ -1,0 +1,59 @@
+---
+layout: post
+---
+
+<div class="gallery-event">
+
+  {% if page.description %}
+    <p class="gallery-event-lead">
+      {{ page.description }}
+    </p>
+  {% endif %}
+
+  {% if content != blank %}
+    <div class="gallery-event-text">
+      {{ content }}
+    </div>
+  {% endif %}
+
+  {% if page.gallery_images and page.gallery_images.size > 0 %}
+
+    <div class="gallery-photo-grid">
+
+      {% for image in page.gallery_images %}
+
+        {% assign image_path = page.gallery_folder | append: image.file %}
+
+        <figure class="gallery-photo-item">
+
+          <a
+            href="{{ image_path | relative_url }}"
+            target="_blank"
+            rel="noopener"
+          >
+            <img
+              src="{{ image_path | relative_url }}"
+              alt="{{ image.caption | default: page.title }}"
+              loading="lazy"
+            >
+          </a>
+
+          {% if image.caption %}
+            <figcaption class="gallery-photo-caption">
+              {{ image.caption }}
+            </figcaption>
+          {% endif %}
+
+        </figure>
+
+      {% endfor %}
+
+    </div>
+
+  {% else %}
+
+    <p>No photographs are available for this gallery.</p>
+
+  {% endif %}
+
+</div>

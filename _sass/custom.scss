@@ -119,3 +119,482 @@
     grid-template-columns: 1fr;
   }
 }
+
+.news-list {
+  width: 100%;
+}
+
+.news-inline-item {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 1rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+.news-date {
+  color: var(--global-text-color-light);
+  font-size: 0.9rem;
+  white-space: nowrap;
+}
+
+.news-inline-content {
+  line-height: 1.6;
+}
+
+.news-card {
+  display: grid;
+  grid-template-columns: minmax(220px, 32%) 1fr;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--global-divider-color);
+}
+
+.news-card-image img {
+  width: 100%;
+  height: 190px;
+  object-fit: cover;
+  border-radius: 8px;
+  transition: transform 0.2s ease;
+}
+
+.news-card-image img:hover {
+  transform: scale(1.02);
+}
+
+.news-card-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.news-card-title {
+  margin: 0.35rem 0 0.75rem;
+  font-size: 1.35rem;
+}
+
+.news-card-title a {
+  color: var(--global-theme-color);
+  text-decoration: none;
+}
+
+.news-card-description {
+  margin-bottom: 0.75rem;
+  line-height: 1.6;
+}
+
+.news-read-more {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+@media (max-width: 768px) {
+  .news-card {
+    grid-template-columns: 1fr;
+  }
+
+  .news-card-image img {
+    height: auto;
+  }
+
+  .news-inline-item {
+    grid-template-columns: 1fr;
+    gap: 0.25rem;
+  }
+}
+
+// additional for nice page news
+
+/* ========================================
+   Full news article
+   ======================================== */
+
+.news-article {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.news-hero {
+  margin: 1.5rem 0 2rem;
+}
+
+.news-hero-image {
+  width: 100%;
+  height: 520px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border-radius: 12px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
+}
+
+.news-caption {
+  margin-top: 0.6rem;
+  color: var(--global-text-color-light);
+  font-size: 0.88rem;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.news-lead {
+  margin: 1.5rem 0 2rem;
+  font-size: 1.15rem;
+  line-height: 1.8;
+}
+
+.news-highlight-box {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1rem;
+  margin: 2rem 0 2.5rem;
+}
+
+.news-highlight-item {
+  padding: 1.25rem 1rem;
+  text-align: center;
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 10px;
+}
+
+.news-highlight-icon {
+  display: block;
+  margin-bottom: 0.4rem;
+  font-size: 1.6rem;
+}
+
+.news-highlight-title {
+  display: block;
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.news-section {
+  margin: 2.5rem 0;
+}
+
+.news-section h2 {
+  margin-bottom: 1rem;
+  font-size: 1.65rem;
+}
+
+.news-section p {
+  line-height: 1.8;
+}
+
+.news-feature-row {
+  display: grid;
+  grid-template-columns: minmax(300px, 45%) 1fr;
+  gap: 2rem;
+  align-items: center;
+  margin: 2.5rem 0;
+}
+
+.news-feature-row.reverse {
+  grid-template-columns: 1fr minmax(300px, 45%);
+}
+
+.news-feature-image {
+  width: 100%;
+  height: 360px;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  border-radius: 12px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.1);
+}
+
+.news-paper-title {
+  padding: 1.25rem 1.5rem;
+  margin: 1.5rem 0;
+  border-left: 4px solid var(--global-theme-color);
+  background: var(--global-card-bg-color);
+  border-radius: 0 8px 8px 0;
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+@media (max-width: 900px) {
+  .news-highlight-box {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .news-hero-image {
+    height: 420px;
+  }
+
+  .news-feature-row,
+  .news-feature-row.reverse {
+    grid-template-columns: 1fr;
+  }
+
+  .news-feature-row.reverse .news-feature-text {
+    order: 2;
+  }
+
+  .news-feature-row.reverse .news-feature-media {
+    order: 1;
+  }
+}
+
+@media (max-width: 576px) {
+  .news-hero-image {
+    height: 280px;
+  }
+
+  .news-feature-image {
+    height: 280px;
+  }
+
+  .news-highlight-box {
+    grid-template-columns: 1fr;
+  }
+
+  .news-lead {
+    font-size: 1.05rem;
+  }
+}
+
+/* ========================================
+   Gallery archive
+   ======================================== */
+
+.gallery-archive {
+  width: 100%;
+  padding-bottom: 4rem;
+}
+
+.gallery-category {
+  margin: 3rem 0 4.5rem;
+}
+
+.gallery-category:first-child {
+  margin-top: 1.5rem;
+}
+
+.gallery-category:last-child {
+  margin-bottom: 2rem;
+}
+
+.gallery-category-heading {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+  margin-bottom: 1.75rem;
+}
+
+.gallery-category-icon {
+  flex-shrink: 0;
+  font-size: 2rem;
+  line-height: 1;
+}
+
+.gallery-category-heading h2 {
+  margin: 0 0 0.35rem;
+  font-size: 1.75rem;
+}
+
+.gallery-category-heading p {
+  max-width: 720px;
+  margin: 0;
+  color: var(--global-text-color-light);
+  line-height: 1.6;
+}
+
+.gallery-card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.75rem;
+}
+
+.gallery-card {
+  display: flex;
+  flex-direction: column;
+  min-height: 100%;
+  overflow: hidden;
+  background: var(--global-card-bg-color);
+  border: 1px solid var(--global-divider-color);
+  border-radius: 12px;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+.gallery-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.1);
+}
+
+.gallery-card-image {
+  display: block;
+  overflow: hidden;
+  aspect-ratio: 4 / 3;
+}
+
+.gallery-card-image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  transition: transform 0.3s ease;
+}
+
+.gallery-card:hover .gallery-card-image img {
+  transform: scale(1.03);
+}
+
+.gallery-card-content {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  padding: 1.25rem;
+}
+
+.gallery-card-date {
+  margin-bottom: 0.45rem;
+  color: var(--global-text-color-light);
+  font-size: 0.85rem;
+}
+
+.gallery-card-title {
+  margin: 0 0 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1.35;
+}
+
+.gallery-card-title a {
+  color: var(--global-text-color);
+  text-decoration: none;
+}
+
+.gallery-card-description {
+  flex: 1;
+  margin-bottom: 1rem;
+  line-height: 1.6;
+}
+
+.gallery-card-link {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.gallery-empty {
+  color: var(--global-text-color-light);
+  font-style: italic;
+}
+
+/* ========================================
+   Individual gallery event
+   ======================================== */
+
+.gallery-event {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.gallery-event-lead {
+  max-width: 780px;
+  margin: 0 auto 1rem;
+  color: var(--global-text-color-light);
+  font-size: 1.1rem;
+  line-height: 1.75;
+  text-align: center;
+}
+
+.gallery-event-text {
+  max-width: 780px;
+  margin: 0 auto 2.5rem;
+  line-height: 1.75;
+  text-align: center;
+}
+
+.gallery-photo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.5rem 1rem;
+}
+
+/* The figure contains the photo and its caption */
+.gallery-photo-item {
+  margin: 0;
+  min-width: 0;
+}
+
+/* Only the image area has a fixed aspect ratio */
+.gallery-photo-item a {
+  display: block;
+  overflow: hidden;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 10px;
+  background: var(--global-card-bg-color);
+}
+
+.gallery-photo-item img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  transition:
+    transform 0.25s ease,
+    opacity 0.25s ease;
+}
+
+.gallery-photo-item:hover img {
+  transform: scale(1.03);
+  opacity: 0.92;
+}
+
+.gallery-photo-caption {
+  margin-top: 0.65rem;
+  padding: 0 0.3rem;
+  color: var(--global-text-color-light);
+  font-size: 0.85rem;
+  line-height: 1.45;
+  text-align: center;
+}
+
+/* ========================================
+   Responsive gallery layout
+   ======================================== */
+
+@media (max-width: 992px) {
+  .gallery-card-grid,
+  .gallery-photo-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (max-width: 576px) {
+  .gallery-card-grid,
+  .gallery-photo-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery-category {
+    margin-bottom: 3.5rem;
+  }
+
+  .gallery-category-heading {
+    gap: 0.75rem;
+  }
+
+  .gallery-category-icon {
+    font-size: 1.6rem;
+  }
+
+  .gallery-category-heading h2 {
+    font-size: 1.5rem;
+  }
+
+  .gallery-photo-item a {
+    aspect-ratio: 4 / 3;
+  }
+
+  .gallery-event-lead {
+    font-size: 1rem;
+  }
+}

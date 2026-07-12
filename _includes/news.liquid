@@ -1,33 +1,79 @@
 <div class="news">
   {% if site.news != blank %}
     {% assign news_size = site.news | size %}
+    {% assign news = site.news | reverse %}
+
+    {% if include.limit and page.announcements.limit %}
+      {% assign news_limit = page.announcements.limit %}
+    {% else %}
+      {% assign news_limit = news_size %}
+    {% endif %}
+
     <div
-      class="table-responsive"
+      class="news-list"
       {% if include.limit and page.announcements.scrollable and news_size > 3 %}
-        style="max-height: 60vw"
+        style="max-height: 60vw; overflow-y: auto;"
       {% endif %}
     >
-      <table class="table table-sm table-borderless">
-        {% assign news = site.news | reverse %}
-        {% if include.limit and page.announcements.limit %}
-          {% assign news_limit = page.announcements.limit %}
+      {% for item in news limit: news_limit %}
+
+        {% if item.inline %}
+
+          <div class="news-inline-item">
+            <div class="news-date">
+              {{ item.date | date: '%b %d, %Y' }}
+            </div>
+
+            <div class="news-inline-content">
+              {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
+            </div>
+          </div>
+
         {% else %}
-          {% assign news_limit = news_size %}
-        {% endif %}
-        {% for item in news limit: news_limit %}
-          <tr>
-            <th scope="row" style="width: 20%">{{ item.date | date: '%b %d, %Y' }}</th>
-            <td>
-              {% if item.inline %}
-                {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
-              {% else %}
-                <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+
+          <article class="news-card">
+
+            {% if item.thumbnail %}
+              <div class="news-card-image">
+                <a href="{{ item.url | relative_url }}">
+                  <img
+                    src="{{ item.thumbnail | relative_url }}"
+                    alt="{{ item.title }}"
+                    loading="lazy"
+                  >
+                </a>
+              </div>
+            {% endif %}
+
+            <div class="news-card-content">
+              <div class="news-date">
+                {{ item.date | date: '%b %d, %Y' }}
+              </div>
+
+              <h3 class="news-card-title">
+                <a href="{{ item.url | relative_url }}">
+                  {{ item.title }}
+                </a>
+              </h3>
+
+              {% if item.description %}
+                <p class="news-card-description">
+                  {{ item.description }}
+                </p>
               {% endif %}
-            </td>
-          </tr>
-        {% endfor %}
-      </table>
+
+              <a class="news-read-more" href="{{ item.url | relative_url }}">
+                Read more →
+              </a>
+            </div>
+
+          </article>
+
+        {% endif %}
+
+      {% endfor %}
     </div>
+
   {% else %}
     <p>No news so far...</p>
   {% endif %}
