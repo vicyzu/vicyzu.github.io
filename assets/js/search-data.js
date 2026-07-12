@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-gallery",
           title: "Gallery",
-          description: "Lab activities and photo highlights (click a title to view more images)",
+          description: "A visual archive of VIC Lab activities, collaborations, visits, and academic events.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/gallery/";
@@ -30,7 +30,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/team/";
           },
-        },{id: "post-iipp-internship-program-at-vic-lab",
+        },{id: "post-icce-tw-2026",
+        
+          title: "ICCE-TW 2026",
+        
+        description: "VIC Lab presented three collaborative research papers and received the Best Paper Award at ICCE-TW 2026.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/icce-tw-2026/";
+          
+        },
+      },{id: "post-visiting-professors-at-vic-lab",
+        
+          title: "Visiting Professors at VIC Lab",
+        
+        description: "VIC Lab welcomed visiting professors from partner universities for academic exchange and discussions on future research collaborations.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/vic-guest-2026/";
+          
+        },
+      },{id: "post-master-s-oral-defense-2026",
+        
+          title: "Master’s Oral Defense 2026",
+        
+        description: "Celebrating the successful oral defenses of Andri Marcherisal and Sakhile Ginindza.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/master-defense-2026/";
+          
+        },
+      },{id: "post-iipp-internship-program-at-vic-lab",
         
           title: "IIPP Internship Program at VIC Lab",
         
@@ -41,15 +74,37 @@ ninja.data = [{
             window.location.href = "/blog/2025/iipp-intern/";
           
         },
-      },{id: "post-ivcs-workshop-at-avss-2025",
+      },{id: "post-cosite-conference-2025",
         
-          title: "IVCS Workshop at AVSS 2025",
+          title: "COSITE Conference 2025",
         
-        description: "VIC Lab hosted the IVCS Workshop at AVSS 2025. Workshop website: https://sites.google.com/view/ivcs2025",
+        description: "VIC Lab presented two research papers at COSITE Conference 2025 in Indonesia, where one paper received the Best Paper Award.",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/icce-tw-ivcs/";
+            window.location.href = "/blog/2025/cosite-2025/";
+          
+        },
+      },{id: "post-international-internship-programs-at-vic-lab",
+        
+          title: "International Internship Programs at VIC Lab",
+        
+        description: "VIC Lab hosted international students through the IIPP and TEEP programs, providing research training and opportunities for academic and cultural exchange.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/iipp-internship-2025/";
+          
+        },
+      },{id: "post-avss-2025-amp-ivcs-workshop",
+        
+          title: "AVSS 2025 &amp; IVCS Workshop",
+        
+        description: "VIC Lab presented two papers and organized the IVCS Workshop during IEEE AVSS 2025.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/avss-2025/";
           
         },
       },{id: "post-a-post-with-plotly-js",
@@ -447,7 +502,15 @@ ninja.data = [{
           section: "News",},{id: "news-chun-yi-lin-received-the-best-paper-award-at-the-cosite-conference-2025-for-the-paper-titled-zero-shot-representation-learning-for-alzheimer-s-disease-mri-via-frozen-clip-congratulations-to-chun-yi",
           title: '🏆 Chun-Yi Lin received the Best Paper Award at the COSITE Conference 2025...',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "news-congratulations-to-andri-marcherisal-and-sakhile-ginindza-on-successfully-passing-their-master-s-oral-defense-and-earning-their-master-of-science-degree-from-yuan-ze-university-we-are-proud-of-your-achievement-and-wish-you-continued-success-in-your-future-careers-and-research-endeavors",
+          title: '🎓 Congratulations to Andri Marcherisal and Sakhile Ginindza on successfully passing their Master’s...',
+          description: "",
+          section: "News",},{id: "news-vic-lab-wins-best-paper-award-at-icce-tw-2026",
+          title: 'VIC Lab Wins Best Paper Award at ICCE-TW 2026',
+          description: "VIC Lab received the Best Paper Award at ICCE-TW 2026 and presented three collaborative research papers with international partners.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-07-03-icce-best-paper/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -511,7 +574,7 @@ ninja.data = [{
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=ot0cAbQAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',

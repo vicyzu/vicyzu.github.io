@@ -1,0 +1,567 @@
+Configuration file: /Users/isackfarady/Sites/vicyzu.github.io/_config.yml
+            Source: /Users/isackfarady/Sites/vicyzu.github.io
+       Destination: /Users/isackfarady/Sites/vicyzu.github.io/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+Fetching external posts from medium.com:
+...fetching https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2
+Fetching external posts from Google Blog:
+...fetching https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/bibsearch.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/chartjs-setup.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/common.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/copy_code.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/diff2html-setup.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/distillpub/overrides.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/distillpub/template.v2.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/distillpub/transforms.v2.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/echarts-setup.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/highlight-search-term.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/jupyter_new_tab.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/leaflet-setup.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/masonry.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/mathjax-setup.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/mermaid-setup.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/newsletter.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/no_defer.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/plotly-setup.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/progress-bar.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/pseudocode-setup.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/search-setup.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/shortcut-key.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/theme.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/tooltips-setup.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/typograms.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/vega-setup.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/venobox-setup.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/wechat.js
+Terser: Minifying /Users/isackfarady/Sites/vicyzu.github.io/assets/js/zoom.js
+       Imagemagick: Searching files in /Users/isackfarady/Sites/vicyzu.github.io/assets/img/
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/1-480.webp"
+[31m       Imagemagick: Command returned pid 46064 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/1-800.webp"
+[31m       Imagemagick: Command returned pid 46065 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/1-1400.webp"
+[31m       Imagemagick: Command returned pid 46066 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/10-480.webp"
+[31m       Imagemagick: Command returned pid 46067 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/10-800.webp"
+[31m       Imagemagick: Command returned pid 46068 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/10-1400.webp"
+[31m       Imagemagick: Command returned pid 46069 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/11-480.webp"
+[31m       Imagemagick: Command returned pid 46070 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/11-800.webp"
+[31m       Imagemagick: Command returned pid 46071 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/11-1400.webp"
+[31m       Imagemagick: Command returned pid 46072 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/12-480.webp"
+[31m       Imagemagick: Command returned pid 46073 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/12-800.webp"
+[31m       Imagemagick: Command returned pid 46074 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/12-1400.webp"
+[31m       Imagemagick: Command returned pid 46075 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/2-480.webp"
+[31m       Imagemagick: Command returned pid 46076 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/2-800.webp"
+[31m       Imagemagick: Command returned pid 46077 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/2-1400.webp"
+[31m       Imagemagick: Command returned pid 46078 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/3-480.webp"
+[31m       Imagemagick: Command returned pid 46079 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/3-800.webp"
+[31m       Imagemagick: Command returned pid 46080 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/3-1400.webp"
+[31m       Imagemagick: Command returned pid 46081 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/4-480.webp"
+[31m       Imagemagick: Command returned pid 46082 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/4-800.webp"
+[31m       Imagemagick: Command returned pid 46083 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/4-1400.webp"
+[31m       Imagemagick: Command returned pid 46084 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/5-480.webp"
+[31m       Imagemagick: Command returned pid 46085 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/5-800.webp"
+[31m       Imagemagick: Command returned pid 46086 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/5-1400.webp"
+[31m       Imagemagick: Command returned pid 46087 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/6-480.webp"
+[31m       Imagemagick: Command returned pid 46088 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/6-800.webp"
+[31m       Imagemagick: Command returned pid 46089 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/6-1400.webp"
+[31m       Imagemagick: Command returned pid 46090 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/7-480.webp"
+[31m       Imagemagick: Command returned pid 46091 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/7-800.webp"
+[31m       Imagemagick: Command returned pid 46092 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/7-1400.webp"
+[31m       Imagemagick: Command returned pid 46093 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/8-480.webp"
+[31m       Imagemagick: Command returned pid 46094 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/8-800.webp"
+[31m       Imagemagick: Command returned pid 46095 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/8-1400.webp"
+[31m       Imagemagick: Command returned pid 46096 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/9-480.webp"
+[31m       Imagemagick: Command returned pid 46097 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/9-800.webp"
+[31m       Imagemagick: Command returned pid 46098 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/9-1400.webp"
+[31m       Imagemagick: Command returned pid 46099 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/award2-480.webp"
+[31m       Imagemagick: Command returned pid 46100 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/award2-800.webp"
+[31m       Imagemagick: Command returned pid 46101 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/award2-1400.webp"
+[31m       Imagemagick: Command returned pid 46102 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/book_covers/the_godfather-480.webp"
+[31m       Imagemagick: Command returned pid 46103 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/book_covers/the_godfather-800.webp"
+[31m       Imagemagick: Command returned pid 46104 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/book_covers/the_godfather-1400.webp"
+[31m       Imagemagick: Command returned pid 46105 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/chunyi-avss-480.webp"
+[31m       Imagemagick: Command returned pid 46106 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/chunyi-avss-800.webp"
+[31m       Imagemagick: Command returned pid 46107 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/chunyi-avss-1400.webp"
+[31m       Imagemagick: Command returned pid 46108 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/cosite-paper-480.webp"
+[31m       Imagemagick: Command returned pid 46109 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/cosite-paper-800.webp"
+[31m       Imagemagick: Command returned pid 46110 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/cosite-paper-1400.webp"
+[31m       Imagemagick: Command returned pid 46111 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/iipp-ahmed-480.webp"
+[31m       Imagemagick: Command returned pid 46112 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/iipp-ahmed-800.webp"
+[31m       Imagemagick: Command returned pid 46113 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/iipp-ahmed-1400.webp"
+[31m       Imagemagick: Command returned pid 46114 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/iipp-vincent-480.webp"
+[31m       Imagemagick: Command returned pid 46115 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/iipp-vincent-800.webp"
+[31m       Imagemagick: Command returned pid 46116 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/iipp-vincent-1400.webp"
+[31m       Imagemagick: Command returned pid 46117 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/ivcs-award-480.webp"
+[31m       Imagemagick: Command returned pid 46118 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/ivcs-award-800.webp"
+[31m       Imagemagick: Command returned pid 46119 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/ivcs-award-1400.webp"
+[31m       Imagemagick: Command returned pid 46120 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/ivcs4-480.webp"
+[31m       Imagemagick: Command returned pid 46121 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/ivcs4-800.webp"
+[31m       Imagemagick: Command returned pid 46122 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/ivcs4-1400.webp"
+[31m       Imagemagick: Command returned pid 46123 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/jong-avss-480.webp"
+[31m       Imagemagick: Command returned pid 46124 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/jong-avss-800.webp"
+[31m       Imagemagick: Command returned pid 46125 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/gallery/jong-avss-1400.webp"
+[31m       Imagemagick: Command returned pid 46126 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/prof_pic-480.webp"
+[31m       Imagemagick: Command returned pid 46127 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/prof_pic-800.webp"
+[31m       Imagemagick: Command returned pid 46128 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/prof_pic-1400.webp"
+[31m       Imagemagick: Command returned pid 46129 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/prof_pic_color-480.webp"
+[31m       Imagemagick: Command returned pid 46130 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/prof_pic_color-800.webp"
+[31m       Imagemagick: Command returned pid 46131 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/prof_pic_color-1400.webp"
+[31m       Imagemagick: Command returned pid 46132 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/alz_reliability-480.webp"
+[31m       Imagemagick: Command returned pid 46133 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/alz_reliability-800.webp"
+[31m       Imagemagick: Command returned pid 46134 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/alz_reliability-1400.webp"
+[31m       Imagemagick: Command returned pid 46135 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/alzheimers_cnn-480.webp"
+[31m       Imagemagick: Command returned pid 46136 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/alzheimers_cnn-800.webp"
+[31m       Imagemagick: Command returned pid 46137 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/alzheimers_cnn-1400.webp"
+[31m       Imagemagick: Command returned pid 46138 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/badminton_tracking-480.webp"
+[31m       Imagemagick: Command returned pid 46139 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/badminton_tracking-800.webp"
+[31m       Imagemagick: Command returned pid 46140 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/badminton_tracking-1400.webp"
+[31m       Imagemagick: Command returned pid 46141 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/brownian-motion-480.webp"
+[31m       Imagemagick: Command returned pid 46142 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/brownian-motion-800.webp"
+[31m       Imagemagick: Command returned pid 46143 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/brownian-motion-1400.webp"
+[31m       Imagemagick: Command returned pid 46144 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/conseisdiff-480.webp"
+[31m       Imagemagick: Command returned pid 46145 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/conseisdiff-800.webp"
+[31m       Imagemagick: Command returned pid 46146 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/conseisdiff-1400.webp"
+[31m       Imagemagick: Command returned pid 46147 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/data_aug_eval-480.webp"
+[31m       Imagemagick: Command returned pid 46148 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/data_aug_eval-800.webp"
+[31m       Imagemagick: Command returned pid 46149 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/data_aug_eval-1400.webp"
+[31m       Imagemagick: Command returned pid 46150 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/ecg_anomaly-480.webp"
+[31m       Imagemagick: Command returned pid 46151 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/ecg_anomaly-800.webp"
+[31m       Imagemagick: Command returned pid 46152 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/ecg_anomaly-1400.webp"
+[31m       Imagemagick: Command returned pid 46153 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/entropy_patch-480.webp"
+[31m       Imagemagick: Command returned pid 46154 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/entropy_patch-800.webp"
+[31m       Imagemagick: Command returned pid 46155 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/entropy_patch-1400.webp"
+[31m       Imagemagick: Command returned pid 46156 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/hierarchical_defect-480.webp"
+[31m       Imagemagick: Command returned pid 46157 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/hierarchical_defect-800.webp"
+[31m       Imagemagick: Command returned pid 46158 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/hierarchical_defect-1400.webp"
+[31m       Imagemagick: Command returned pid 46159 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/lung1-3285115-large-480.webp"
+[31m       Imagemagick: Command returned pid 46160 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/lung1-3285115-large-800.webp"
+[31m       Imagemagick: Command returned pid 46161 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/lung1-3285115-large-1400.webp"
+[31m       Imagemagick: Command returned pid 46162 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/mask_temp-480.webp"
+[31m       Imagemagick: Command returned pid 46163 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/mask_temp-800.webp"
+[31m       Imagemagick: Command returned pid 46164 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/mask_temp-1400.webp"
+[31m       Imagemagick: Command returned pid 46165 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/ppdurq-480.webp"
+[31m       Imagemagick: Command returned pid 46166 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/ppdurq-800.webp"
+[31m       Imagemagick: Command returned pid 46167 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/ppdurq-1400.webp"
+[31m       Imagemagick: Command returned pid 46168 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/preaugnet-480.webp"
+[31m       Imagemagick: Command returned pid 46169 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/preaugnet-800.webp"
+[31m       Imagemagick: Command returned pid 46170 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/preaugnet-1400.webp"
+[31m       Imagemagick: Command returned pid 46171 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/psig_net-480.webp"
+[31m       Imagemagick: Command returned pid 46172 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/psig_net-800.webp"
+[31m       Imagemagick: Command returned pid 46173 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/psig_net-1400.webp"
+[31m       Imagemagick: Command returned pid 46174 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/st_multilevel-480.webp"
+[31m       Imagemagick: Command returned pid 46175 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/st_multilevel-800.webp"
+[31m       Imagemagick: Command returned pid 46176 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/st_multilevel-1400.webp"
+[31m       Imagemagick: Command returned pid 46177 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/wave-mechanics-480.webp"
+[31m       Imagemagick: Command returned pid 46178 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/wave-mechanics-800.webp"
+[31m       Imagemagick: Command returned pid 46179 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/publication_preview/wave-mechanics-1400.webp"
+[31m       Imagemagick: Command returned pid 46180 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/rhino-480.webp"
+[31m       Imagemagick: Command returned pid 46181 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/rhino-800.webp"
+[31m       Imagemagick: Command returned pid 46182 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/rhino-1400.webp"
+[31m       Imagemagick: Command returned pid 46183 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/actor3-480.webp"
+[31m       Imagemagick: Command returned pid 46184 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/actor3-800.webp"
+[31m       Imagemagick: Command returned pid 46185 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/actor3-1400.webp"
+[31m       Imagemagick: Command returned pid 46186 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/actor6-480.webp"
+[31m       Imagemagick: Command returned pid 46187 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/actor6-800.webp"
+[31m       Imagemagick: Command returned pid 46188 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/actor6-1400.webp"
+[31m       Imagemagick: Command returned pid 46189 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/andri-480.webp"
+[31m       Imagemagick: Command returned pid 46190 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/andri-800.webp"
+[31m       Imagemagick: Command returned pid 46191 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/andri-1400.webp"
+[31m       Imagemagick: Command returned pid 46192 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/chunyi-480.webp"
+[31m       Imagemagick: Command returned pid 46193 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/chunyi-800.webp"
+[31m       Imagemagick: Command returned pid 46194 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/chunyi-1400.webp"
+[31m       Imagemagick: Command returned pid 46195 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/dafiq-480.webp"
+[31m       Imagemagick: Command returned pid 46196 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/dafiq-800.webp"
+[31m       Imagemagick: Command returned pid 46197 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/dafiq-1400.webp"
+[31m       Imagemagick: Command returned pid 46198 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/huda-480.webp"
+[31m       Imagemagick: Command returned pid 46199 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/huda-800.webp"
+[31m       Imagemagick: Command returned pid 46200 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/huda-1400.webp"
+[31m       Imagemagick: Command returned pid 46201 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/isack-480.webp"
+[31m       Imagemagick: Command returned pid 46202 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/isack-800.webp"
+[31m       Imagemagick: Command returned pid 46203 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/isack-1400.webp"
+[31m       Imagemagick: Command returned pid 46204 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/novia-480.webp"
+[31m       Imagemagick: Command returned pid 46205 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/novia-800.webp"
+[31m       Imagemagick: Command returned pid 46206 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/novia-1400.webp"
+[31m       Imagemagick: Command returned pid 46207 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/pei-hsuan-lin-480.webp"
+[31m       Imagemagick: Command returned pid 46208 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/pei-hsuan-lin-800.webp"
+[31m       Imagemagick: Command returned pid 46209 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/pei-hsuan-lin-1400.webp"
+[31m       Imagemagick: Command returned pid 46210 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/pitt-480.webp"
+[31m       Imagemagick: Command returned pid 46211 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/pitt-800.webp"
+[31m       Imagemagick: Command returned pid 46212 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/pitt-1400.webp"
+[31m       Imagemagick: Command returned pid 46213 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/raihan-480.webp"
+[31m       Imagemagick: Command returned pid 46214 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/raihan-800.webp"
+[31m       Imagemagick: Command returned pid 46215 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/raihan-1400.webp"
+[31m       Imagemagick: Command returned pid 46216 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/raj-480.webp"
+[31m       Imagemagick: Command returned pid 46217 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/raj-800.webp"
+[31m       Imagemagick: Command returned pid 46218 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/raj-1400.webp"
+[31m       Imagemagick: Command returned pid 46219 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/sakhi-480.webp"
+[31m       Imagemagick: Command returned pid 46220 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/sakhi-800.webp"
+[31m       Imagemagick: Command returned pid 46221 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/sakhi-1400.webp"
+[31m       Imagemagick: Command returned pid 46222 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/ssu-chien-li-480.webp"
+[31m       Imagemagick: Command returned pid 46223 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/ssu-chien-li-800.webp"
+[31m       Imagemagick: Command returned pid 46224 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/ssu-chien-li-1400.webp"
+[31m       Imagemagick: Command returned pid 46225 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/yayang-480.webp"
+[31m       Imagemagick: Command returned pid 46226 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/yayang-800.webp"
+[31m       Imagemagick: Command returned pid 46227 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/yayang-1400.webp"
+[31m       Imagemagick: Command returned pid 46228 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/yiting-480.webp"
+[31m       Imagemagick: Command returned pid 46229 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/yiting-800.webp"
+[31m       Imagemagick: Command returned pid 46230 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/yiting-1400.webp"
+[31m       Imagemagick: Command returned pid 46231 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/yuti-480.webp"
+[31m       Imagemagick: Command returned pid 46232 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/yuti-800.webp"
+[31m       Imagemagick: Command returned pid 46233 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/team/yuti-1400.webp"
+[31m       Imagemagick: Command returned pid 46234 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/template_error-480.webp"
+[31m       Imagemagick: Command returned pid 46235 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/template_error-800.webp"
+[31m       Imagemagick: Command returned pid 46236 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/template_error-1400.webp"
+[31m       Imagemagick: Command returned pid 46237 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/vic-logo-480.webp"
+[31m       Imagemagick: Command returned pid 46238 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/vic-logo-800.webp"
+[31m       Imagemagick: Command returned pid 46239 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generating image "/Users/isackfarady/Sites/vicyzu.github.io/_site/assets/img/vic-logo-1400.webp"
+[31m       Imagemagick: Command returned pid 46240 exit 127 with error sh: convert: command not found [0m
+       Imagemagick: Generated 177 file(s)
+       Jekyll Feed: Generating feed for posts
+         AutoPages: Disabled/Not configured in site.config.
+[33m        Pagination: Is enabled, but I couldn't find any pagination page. Skipping pagination. Pages must have 'pagination: enabled: true' in their front-matter for pagination to work.[0m
+        Pagination: Complete, processed pagination page(s)
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+7 │   "variables",
+  │   ^^^^^^^^^^^
+  ╵
+    /Users/isackfarady/Sites/vicyzu.github.io/assets/css/main.scss 7:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+8 │   "themes",
+  │   ^^^^^^^^
+  ╵
+    /Users/isackfarady/Sites/vicyzu.github.io/assets/css/main.scss 8:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+9 │   "layout",
+  │   ^^^^^^^^
+  ╵
+    /Users/isackfarady/Sites/vicyzu.github.io/assets/css/main.scss 9:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+10 │   "base",
+   │   ^^^^^^
+   ╵
+    /Users/isackfarady/Sites/vicyzu.github.io/assets/css/main.scss 10:3  root stylesheet
+DEPRECATION WARNING [import]: Sass @import rules are deprecated and will be removed in Dart Sass 3.0.0.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+11 │   "distill",
+   │   ^^^^^^^^^
+   ╵
+    /Users/isackfarady/Sites/vicyzu.github.io/assets/css/main.scss 11:3  root stylesheet
+DEPRECATION WARNING [if-function]: The Sass if() syntax is deprecated in favor of the modern CSS syntax.
+
+Suggestion: if(sass($dividend > 0 and $divisor > 0): 1; else: -1)
+
+More info: https://sass-lang.com/d/if-function
+
+   ╷
+35 │   $sign: if($dividend > 0 and $divisor > 0, 1, -1);
+   │          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    /Users/isackfarady/Sites/vicyzu.github.io/_sass/font-awesome/_functions.scss 35:10  @import
+    font-awesome/fontawesome.scss 9:9                                                   @import
+    /Users/isackfarady/Sites/vicyzu.github.io/assets/css/main.scss 15:3                 root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use string.unquote instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+  ╷
+9 │     #{$fa-icon-property}: unquote("\"#{ $icon }\"");
+  │                           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  ╵
+    /Users/isackfarady/Sites/vicyzu.github.io/_sass/font-awesome/_icons.scss 9:27  @import
+    font-awesome/fontawesome.scss 20:9                                             @import
+    /Users/isackfarady/Sites/vicyzu.github.io/assets/css/main.scss 15:3            root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use string.unquote instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+10 │     #{$fa-duotone-icon-property}: unquote("\"#{$icon}#{$icon}\"");
+   │                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    /Users/isackfarady/Sites/vicyzu.github.io/_sass/font-awesome/_icons.scss 10:35  @import
+    font-awesome/fontawesome.scss 20:9                                              @import
+    /Users/isackfarady/Sites/vicyzu.github.io/assets/css/main.scss 15:3             root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use string.unquote instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+29 │   .#{$fa-css-prefix}-#{$name} { #{$fa-icon-property}: unquote("\"#{ $icon }\""); }
+   │                                                       ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    font-awesome/brands.scss 29:55                                       @import
+    /Users/isackfarady/Sites/vicyzu.github.io/assets/css/main.scss 16:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use string.unquote instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+36 │   @return unquote("\"")+unquote(str-insert($str, "\\", 1))+unquote("\"")
+   │           ^^^^^^^^^^^^^
+   ╵
+    tabler-icons/tabler-icons.scss 36:11                                 unicode()
+    tabler-icons/tabler-icons.scss 40:15                                 @import
+    /Users/isackfarady/Sites/vicyzu.github.io/assets/css/main.scss 19:3  root stylesheet
+DEPRECATION WARNING [global-builtin]: Global built-in functions are deprecated and will be removed in Dart Sass 3.0.0.
+Use string.insert instead.
+
+More info and automated migrator: https://sass-lang.com/d/import
+
+   ╷
+36 │   @return unquote("\"")+unquote(str-insert($str, "\\", 1))+unquote("\"")
+   │                                 ^^^^^^^^^^^^^^^^^^^^^^^^^
+   ╵
+    tabler-icons/tabler-icons.scss 36:33                                 unicode()
+    tabler-icons/tabler-icons.scss 40:15                                 @import
+    /Users/isackfarady/Sites/vicyzu.github.io/assets/css/main.scss 19:3  root stylesheet
+WARNING: 40 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+[31m  Conversion error: JekyllJupyterNotebook::Converter encountered an error while converting 'assets/jupyter/blog.ipynb':[0m
+[31m                    No such file or directory - jupyter[0m
+bundler: failed to load command: jekyll (/Users/isackfarady/.rbenv/versions/3.3.7/bin/jekyll)
+/Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:58:in `spawn': No such file or directory - jupyter (Errno::ENOENT)
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:58:in `block in convert_notebook'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:49:in `pipe'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:49:in `convert_notebook'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-jupyter-notebook-0.0.6/lib/jekyll-jupyter-notebook/converter.rb:28:in `convert'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:105:in `block in convert'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:104:in `each'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:104:in `reduce'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:104:in `convert'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:84:in `render_document'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/renderer.rb:63:in `run'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:572:in `render_regenerated'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:564:in `block in render_pages'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:563:in `each'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:563:in `render_pages'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:211:in `render'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/site.rb:80:in `process'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/command.rb:28:in `process_site'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/commands/build.rb:65:in `build'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/commands/build.rb:36:in `process'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `block in process_with_graceful_fail'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `each'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/command.rb:91:in `process_with_graceful_fail'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/lib/jekyll/commands/serve.rb:85:in `block (2 levels) in init_with_program'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `block in execute'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `each'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/mercenary-0.4.0/lib/mercenary/command.rb:221:in `execute'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/mercenary-0.4.0/lib/mercenary/program.rb:44:in `go'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/mercenary-0.4.0/lib/mercenary.rb:21:in `program'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/jekyll-4.4.1/exe/jekyll:15:in `<top (required)>'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/bin/jekyll:25:in `load'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/bin/jekyll:25:in `<top (required)>'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/lib/bundler/cli/exec.rb:61:in `load'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/lib/bundler/cli/exec.rb:61:in `kernel_load'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/lib/bundler/cli/exec.rb:24:in `run'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/lib/bundler/cli.rb:500:in `exec'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/lib/bundler/vendor/thor/lib/thor/command.rb:28:in `run'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/lib/bundler/vendor/thor/lib/thor/invocation.rb:127:in `invoke_command'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/lib/bundler/vendor/thor/lib/thor.rb:538:in `dispatch'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/lib/bundler/cli.rb:35:in `dispatch'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/lib/bundler/vendor/thor/lib/thor/base.rb:584:in `start'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/lib/bundler/cli.rb:29:in `start'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/exe/bundle:28:in `block in <top (required)>'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/lib/bundler/friendly_errors.rb:118:in `with_friendly_errors'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/lib/ruby/gems/3.3.0/gems/bundler-4.0.3/exe/bundle:20:in `<top (required)>'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/bin/bundle:25:in `load'
+	from /Users/isackfarady/.rbenv/versions/3.3.7/bin/bundle:25:in `<main>'
