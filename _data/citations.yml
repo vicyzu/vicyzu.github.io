@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-17'
 papers:
   ot0cAbQAAAAJ:2P1L_qKh6hAC:
     citations: 1
@@ -22,7 +22,7 @@ papers:
     title: Enhancing the reliability of Alzheimer's disease prediction in MRI images
     year: '2025'
   ot0cAbQAAAAJ:BqipwSGYUEgC:
-    citations: 18
+    citations: 19
     title: ECG anomaly detection with LSTM-autoencoder for heartbeat analysis
     year: '2024'
   ot0cAbQAAAAJ:GnPB-g6toBAC:
@@ -70,7 +70,7 @@ papers:
     title: "A dual-stream network with gated fusion for enhanced Alzheimer\u2019s disease classification using MRI and region-specific segmentation maps"
     year: '2025'
   ot0cAbQAAAAJ:TFP_iSt0sucC:
-    citations: 15
+    citations: 16
     title: "Early alzheimer\u2019s disease detection through YOLO-based detection of hippocampus region in MRI images"
     year: '2023'
   ot0cAbQAAAAJ:YFjsv_pBGBYC:
@@ -110,7 +110,7 @@ papers:
     title: 'Pseudo Skin Image Generator (PSIG-Net): Ambiguity-free sample generation and outlier control for skin lesion classification'
     year: '2024'
   ot0cAbQAAAAJ:iH-uZ7U-co4C:
-    citations: 34
+    citations: 35
     title: "Diagnosis of Alzheimer\u2019s disease using convolutional neural network with select slices by landmark on Hippocampus in MRI images"
     year: '2023'
   ot0cAbQAAAAJ:isC4tDSrTZIC:
