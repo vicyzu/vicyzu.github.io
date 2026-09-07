@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-08-17'
+  last_updated: '2026-09-07'
 papers:
   ot0cAbQAAAAJ:2P1L_qKh6hAC:
-    citations: 1
+    citations: 2
     title: 'ConSeisDiff: A conditional diffusion approach to mitigate synthetic-real disparities in seismic fault detection'
     year: '2025'
   ot0cAbQAAAAJ:35N4QoGY0k4C:
@@ -18,15 +18,15 @@ papers:
     title: An Improved Camera-Based People Counting System with Identity Tracking and Multi-state Line-Crossing Logic
     year: '2026'
   ot0cAbQAAAAJ:70eg2SAEIzsC:
-    citations: 8
+    citations: 9
     title: Enhancing the reliability of Alzheimer's disease prediction in MRI images
     year: '2025'
   ot0cAbQAAAAJ:BqipwSGYUEgC:
-    citations: 19
+    citations: 20
     title: ECG anomaly detection with LSTM-autoencoder for heartbeat analysis
     year: '2024'
   ot0cAbQAAAAJ:GnPB-g6toBAC:
-    citations: 3
+    citations: 4
     title: Seismic layer segmentation models with channel attention block in carbon storage study
     year: '2024'
   ot0cAbQAAAAJ:HoB7MX3m0LUC:
@@ -70,7 +70,7 @@ papers:
     title: "A dual-stream network with gated fusion for enhanced Alzheimer\u2019s disease classification using MRI and region-specific segmentation maps"
     year: '2025'
   ot0cAbQAAAAJ:TFP_iSt0sucC:
-    citations: 16
+    citations: 17
     title: "Early alzheimer\u2019s disease detection through YOLO-based detection of hippocampus region in MRI images"
     year: '2023'
   ot0cAbQAAAAJ:YFjsv_pBGBYC:
@@ -81,10 +81,18 @@ papers:
     citations: 0
     title: "Zero-Shot Representation Learning for Alzheimer\u2019s Disease MRI via Frozen CLIP"
     year: '2025'
+  ot0cAbQAAAAJ:a0OBvERweLwC:
+    citations: 0
+    title: Uncertainty-Aware 3D Seismic Facies Segmentation Using Deep Learning
+    year: '2026'
   ot0cAbQAAAAJ:bEWYMUwI8FkC:
     citations: 1
     title: 'GANs in industrial surface defect detection: Insights and challenges'
     year: '2023'
+  ot0cAbQAAAAJ:cFHS6HbyZ2cC:
+    citations: 0
+    title: Real-Time Elderly Fall Detection Using Cascaded YOLOv11n-Pose and LSTM
+    year: '2026'
   ot0cAbQAAAAJ:d1gkVwhDpl0C:
     citations: 5
     title: Evaluation of data augmentation on surface defect detection
@@ -157,6 +165,10 @@ papers:
     citations: 0
     title: Hybrid Denoising of B-Scan UWB Radar Data Using Higher-Order Statistics and Wavelet Shrinkage
     year: '2025'
+  ot0cAbQAAAAJ:yD5IFk8b50cC:
+    citations: 0
+    title: Adaptive Transfer Learning Strategies for a Vision Transformer-Based Seismic Foundation Model
+    year: '2026'
   ot0cAbQAAAAJ:zA6iFVUQeVQC:
     citations: 1
     title: "Enhancing deep learning reliability in MRI images of Alzheimer\u2019s disease using pairwise probability differential reliability quantification"
