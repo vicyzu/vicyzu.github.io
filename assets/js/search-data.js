@@ -510,6 +510,11 @@ ninja.data = [{
           description: "VIC Lab received the Best Paper Award at ICCE-TW 2026 and presented three collaborative research papers with international partners.",
           section: "News",handler: () => {
               window.location.href = "/news/2026-07-03-icce-best-paper/";
+            },},{id: "news-vic-lab-students-39-paper-accepted-at-bmeicon-2026",
+          title: 'VIC Lab Students&amp;#39; Paper Accepted at BMEiCON 2026',
+          description: "Congratulations to Lin Chun-Yi and Tu Yu-Ti on their paper acceptance at BMEiCON 2026 in Fukuoka, Japan.",
+          section: "News",handler: () => {
+              window.location.href = "/news/2026-10-11-bmeicon-2026/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
